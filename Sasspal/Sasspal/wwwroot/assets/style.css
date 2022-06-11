@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color:#606BFF ;
+    height: 100px;
+}
+.home{
+    background-image: url("https://preview.uideck.com/items/saaspal/assets/img/hero/hero-bg.svg");
+    width: 210vh !important;
+    height: 109vh;
+}
+.icons i{
+ font-size: 60px;
+ color: #5864FF;
+}
+.choose{
+    background-color:#EEEFFF ;
+}
+.customers {
+    top: 90px;
+    width: 185vh;
+    height: 100vh;
+   background-image: url('https://preview.uideck.com/items/saaspal/assets/img/testimonial/testimonial-shape.svg') ;
+   background-repeat: no-repeat;
+}
+.customers img:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  
+}
+.customers p:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    
+  }
+  .search{
+      padding: 30px 190px;  
+  }
+#container{
+    background-color:#626DFD ;
+    height: 200px;
+    border-radius: 30px;
+    color: white;
+}
+.footer{
+    background-image:url('https://images.squarespace-cdn.com/content/v1/5d40a168a7c4150001a6bb85/1567574052187-05WHTENZZVL6Z8K3GY6E/main-background-color+footer.png') ;
+    background-repeat: no-repeat;
+    padding: 0 490px;
+    color: white;
+   
+}
+.footer{
+    background-image:url('https://images.squarespace-cdn.com/content/v1/5d40a168a7c4150001a6bb85/1567574052187-05WHTENZZVL6Z8K3GY6E/main-background-color+footer.png') ;
+    background-repeat: no-repeat;
+    padding: 0 490px;
+    color: white;
+   
+}
